@@ -17,7 +17,7 @@ const Header = () => {
     <div className='relative flex items-center justify-center'>
       <HiOutlineShoppingCart className="text-textColor text-2xl ml-9 cursor-pointer" />
       <div className=" absolute top-8 -right-2 w-4 h-4 rounded-full bg-cartNumBg flex items-center justify-center">
-        <p className='text-xs text-white font-semibold'> </p>
+        <p className='text-xs text-white font-semibold'>2</p>
       </div>
     </div>
   </div>
